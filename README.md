@@ -1,2 +1,5 @@
 # hello-world_new
-This is my second hello world.
+
+Hi Everyone.
+
+Hang here, I will push some jave, or other code in the future. 
